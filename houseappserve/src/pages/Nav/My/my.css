@@ -1,0 +1,72 @@
+.my{
+    background-color: #F4F4F4;
+}
+.my_top_div{
+    display: flex;
+    flex-direction: column;
+    background-color: #3E73EC;
+    display: inlineBlock
+}
+.my_top{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.myImg{
+    width: 130px;
+    border-radius: 100%;
+}
+.myImg img{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border-radius: 100%;
+}
+.myLoginReg_div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.myLoginReg_div p{
+    color: #fff;
+    line-height: 24px;
+}
+.myLoginReg label{
+    font-size: 18px;
+}
+.myIconSet{
+    width: 15%;
+    height: 30%;
+}
+.myIconSet img{
+    width: 100%;
+    height: 100%; 
+    padding-right: 10px;
+}
+.my_top_bottom{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.my_top_bottom div{
+    height: 50px;
+    border-right: 1px solid #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0;
+}
+.my_top_bottom div label{
+    color: #fff;
+}
+.my_top_bottom img{
+    width: 24%;
+    height: 70%;
+    margin-right: 10px;
+}
+.my_top_bottom .my_top_bottom_three{
+    border-right: none;
+}
+
+
